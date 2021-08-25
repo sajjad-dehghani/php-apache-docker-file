@@ -7,7 +7,7 @@ After clone file just save Dockerfile on current run console and follow this com
 ``docker image build . -t [Image Name]``
 
 # Note
-To learning what php extension and apache modules by default are enabled, visit link on [DockerHub](https://hub.docker.com/_/php).
+To learning what php extension and apache modules are enabled by default, please follow link on: [DockerHub](https://hub.docker.com/_/php).
 
 # Additional enabled PHP extensions:
 - gd
