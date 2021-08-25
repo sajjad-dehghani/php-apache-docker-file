@@ -9,13 +9,13 @@ After clone file just save Dockerfile on current run console and follow this com
 # Note
 To learning what php extension and apache modules by default are enabled, visit link on [DockerHub](https://hub.docker.com/_/php).
 
-# Additional enabled PHP extensions list:
+# Additional enabled PHP extensions:
 - gd
 - soap
 - mcrypt
 - redis
 - pdo_mysql
 
-# Additional enabled Apache module list:
+# Additional enabled Apache modules:
 - rewrite-mode
 - ssl-mode
