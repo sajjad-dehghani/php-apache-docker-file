@@ -19,3 +19,6 @@ To learning what php extension and apache modules are enabled by default, please
 # Additional enabled Apache modules:
 - rewrite-mode
 - ssl-mode
+
+
+You can follow medium link to more information: [Medium](https://medium.com/@sajjad_dehghani/php-7-3-25-apache-dockerfile-22b26ebb78d9)
